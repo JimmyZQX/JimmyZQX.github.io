@@ -147,6 +147,11 @@ p {
   padding-top: 140px;
 }
 
+mark {
+  color: darkred;
+  background-color: unset;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -455,7 +460,7 @@ p {
 
 #hero .hero-content {
   height: 100vh;
-  text-align: left;
+  text-align: center;
   width: 100%;
   display: flex;
   justify-content: center;
