@@ -460,7 +460,7 @@ mark {
 
 #hero .hero-content {
   height: 100vh;
-  text-align: center;
+  text-align: left;
   width: 100%;
   display: flex;
   justify-content: center;
