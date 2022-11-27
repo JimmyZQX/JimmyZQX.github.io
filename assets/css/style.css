@@ -61,12 +61,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: lightslategrey;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: lightslategrey;
   color: #fff;
 }
 
@@ -136,7 +136,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: darkred;
 }
 
 .mb-30 {
@@ -162,7 +162,7 @@ mark {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #b8a07e;
+  background: darkred;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -176,7 +176,7 @@ mark {
 }
 
 .back-to-top:hover {
-  background: #c6b398;
+  background: lightslategrey;
   color: #fff;
 }
 
@@ -274,7 +274,7 @@ mark {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #b8a07e;
+  color: darkred;
 }
 
 .navbar .dropdown ul {
@@ -308,7 +308,7 @@ mark {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #b8a07e;
+  color: darkred;
 }
 
 .navbar .dropdown:hover>ul {
@@ -407,7 +407,7 @@ mark {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #b8a07e;
+  color: darkred;
 }
 
 .navbar-mobile .getstarted,
@@ -442,7 +442,7 @@ mark {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #b8a07e;
+  color: darkred;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -568,7 +568,7 @@ mark {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid darkred;
 }
 
 #about .div-img-bg .about-img img {
@@ -621,7 +621,7 @@ mark {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: darkred;
   line-height: 44px;
 }
 
@@ -635,11 +635,11 @@ mark {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid darkred;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: darkred;
 }
 
 /*--------------------------------------------------------------
@@ -674,7 +674,7 @@ mark {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: darkred;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -717,12 +717,12 @@ mark {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: darkred;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: darkred;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -755,11 +755,11 @@ mark {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid darkred;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: darkred;
 }
 
 .portfolio-details .portfolio-info {
@@ -846,7 +846,7 @@ mark {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: darkred;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -996,7 +996,7 @@ mark {
 }
 
 .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: darkred;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1119,7 +1119,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: darkred;
   transition: all 0.5s ease-in-out 0s;
 }
 
