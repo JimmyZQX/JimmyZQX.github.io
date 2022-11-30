@@ -683,6 +683,7 @@ mark {
 
 #portfolio .portfolio-item {
   margin-bottom: 30px;
+  cursor: pointer;
 }
 
 #portfolio .portfolio-item .portfolio-info {
