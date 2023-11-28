@@ -11,7 +11,6 @@
 body {
   background: #ffffff;
   color: #898989;
-  /*font-family: "Poppins", helvetica;*/
   font-family: 'Barlow', sans-serif;
   font-size: 15px;
   font-weight: 300;
@@ -137,7 +136,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: darkred;
+  background: #29465B;
 }
 
 .mb-30 {
@@ -149,7 +148,7 @@ p {
 }
 
 mark {
-  color: darkred;
+  color: #29465B;
   background-color: unset;
 }
 
@@ -163,7 +162,7 @@ mark {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: darkred;
+  background: #29465B;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -259,7 +258,7 @@ mark {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 500;
-  color: #7e7d7d;
+  color: #d3e1ec;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -275,7 +274,7 @@ mark {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: darkred;
+  color: #29465B;
 }
 
 .navbar .dropdown ul {
@@ -309,7 +308,7 @@ mark {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: darkred;
+  color: #29465B;
 }
 
 .navbar .dropdown:hover>ul {
@@ -408,7 +407,7 @@ mark {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: darkred;
+  color: #29465B;
 }
 
 .navbar-mobile .getstarted,
@@ -443,7 +442,7 @@ mark {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: darkred;
+  color: #29465B;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -564,13 +563,13 @@ mark {
 #about {
   width: 100%;
   height: auto;
-  background: #f7f7f7;
+  background: #373a3b;
   padding-top: 120px;
 }
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid darkred;
+  border: 20px solid #29465B;
 }
 
 #about .div-img-bg .about-img img {
@@ -623,7 +622,7 @@ mark {
 
 .services-block i {
   font-size: 44px;
-  color: darkred;
+  color: #29465B;
   line-height: 44px;
 }
 
@@ -637,11 +636,11 @@ mark {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid darkred;
+  border: 1px solid #29465B;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: darkred;
+  background-color: #29465B;
 }
 
 /*--------------------------------------------------------------
@@ -650,6 +649,7 @@ mark {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  background: #d3e1ec;
 }
 
 #portfolio #portfolio-flters {
@@ -676,7 +676,7 @@ mark {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: darkred;
+  color: #29465B;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -720,12 +720,12 @@ mark {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: darkred;
+  color: #29465B;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: darkred;
+  color: #29465B;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -758,11 +758,11 @@ mark {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid darkred;
+  border: 1px solid #29465B;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: darkred;
+  background-color: #29465B;
 }
 
 .portfolio-details .portfolio-info {
@@ -849,7 +849,7 @@ mark {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: darkred;
+  color: #29465B;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -999,7 +999,7 @@ mark {
 }
 
 .journal-txt h4 a:hover {
-  color: darkred;
+  color: #29465B;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1122,7 +1122,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: darkred;
+  color: #29465B;
   transition: all 0.5s ease-in-out 0s;
 }
 
