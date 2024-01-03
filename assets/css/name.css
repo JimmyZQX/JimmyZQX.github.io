@@ -2,6 +2,8 @@
     position: relative;
     color: #0AFFFF;
     font-size: 80px;
+    line-height: 1.2; /* Adjust the line height as needed */
+    padding: 10px 0; /* Adjust the top and bottom padding as needed */
 }
 .line:not(:first-child) {
     position: absolute;
